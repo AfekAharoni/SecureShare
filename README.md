@@ -1,1 +1,1 @@
-![Secure Share](Secure Share/Project/static/images/logo2.png)
+![Secure Share](Project/static/images/logo2.png)
