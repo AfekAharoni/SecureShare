@@ -1,6 +1,5 @@
 ![Secure Share](SecureShare/Project/static/images/logo2.png)
 
-
 <div align="center">
 
 # SecureShare - Decentralized Secure File Sharing
@@ -14,35 +13,35 @@ The system provides a simple and intuitive interface for securely uploading, dow
 
 ---
 
-## 🛡️ Project Overview
+## Project Overview
 
-- ✅ **End-to-End Encryption** - Secure encryption for both data in transit and at rest.  
-- ✅ **Decentralized Architecture** - No central servers; peer-to-peer data exchange.  
-- ✅ **Secure Authentication** - Multi-step user authentication process.  
-- ✅ **Clean and Responsive UI** - User-friendly interface using HTML/CSS/JS.  
-- ✅ **Email Notifications** - Secure password reset and registration emails.
+- **End-to-End Encryption** - Secure encryption for both data in transit and at rest.  
+- **Decentralized Architecture** - No central servers; peer-to-peer data exchange.  
+- **Secure Authentication** - Multi-step user authentication process.  
+- **Clean and Responsive UI** - User-friendly interface using HTML/CSS/JS.  
+- **Email Notifications** - Secure password reset and registration emails.
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
-1. Users register and authenticate through a secure login system.
-2. Uploaded files are encrypted locally before transmission.
-3. Files are accessible only to authenticated users with proper credentials.
+1. Users register and authenticate through a secure login system.  
+2. Uploaded files are encrypted locally before transmission.  
+3. Files are accessible only to authenticated users with proper credentials.  
 4. Email notifications are sent for registration and password reset events.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- **Python 3**
-- **Flask** (Backend Framework)
-- **HTML/CSS/JavaScript** (Frontend)
-- **SMTP** (Email Notifications)
+- Python 3  
+- Flask (Backend Framework)  
+- HTML / CSS / JavaScript (Frontend)  
+- SMTP (Email Notifications)
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 SecureShare/
@@ -99,18 +98,18 @@ SecureShare/
 
 ---
 
-## 🔒 Features
+## Features
 
-- **User Registration & Authentication**
-- **Password Reset & Recovery via Email**
-- **File Upload & Download with Encryption**
-- **Responsive Web Interface**
-- **Error Handling & User Feedback**
-- **Multi-threaded File Handling for Performance**
+- User Registration & Authentication  
+- Password Reset & Recovery via Email  
+- File Upload & Download with Encryption  
+- Responsive Web Interface  
+- Error Handling & User Feedback  
+- Multi-threaded File Handling for Performance
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 Project documentation and detailed explanations are available in the `/Book/Project Book` folder.
 
